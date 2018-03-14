@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.2.0",
+    "lodash": "^4.17.5",
+    "querystring": "^0.2.0",
+    "superagent": "^3.8.2",
+    "superagent-bluebird-promise": "^4.2.0"
+  },
+  "name": "formback",
+  "version": "1.0.0",
+  "description": "backend for forms",
+  "main": "index.js",
+  "author": "ian",
+  "license": "MIT"
+}
